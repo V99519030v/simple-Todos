@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.licon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.btn {
+  background-color: white;
+  border: 2px solid #ff0b37;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: #ff0b37;
+  outline: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.para {
+  color: black;
+  font-weight: 500;
+}
